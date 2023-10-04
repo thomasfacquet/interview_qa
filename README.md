@@ -27,5 +27,4 @@ Then
 
 - `npm run cy:open` : to launch Cypress
 - `npm run cy:run`: to launch headless test suite
-- `npm run cy:run:dashboard`: to launch headless test suite with execution results on Cypress Dashboard
 
